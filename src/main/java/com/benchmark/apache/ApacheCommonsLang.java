@@ -7,9 +7,13 @@ import org.apache.commons.lang3.math.NumberUtils;
 
 /**
  * @author ZakariaEMI
- * How to use some methods of Apache Common Lang
+ * How to use some methods of Apache Commons Lang
  */
 public final class ApacheCommonsLang {
+
+    public ApacheCommonsLang() {
+        throw new UnsupportedOperationException();
+    }
 
     /**
      * Manipulate Strings by using some methods
